@@ -2,7 +2,9 @@
 
 Türkiye ve yakın çevrede gerçekleşen depremleri anlık izleyen, harita üzerinde gösteren ve eşik değerlerine göre bildirim gönderebilen iOS uygulaması.
 
-SwiftUI • MapKit • async/await • MVVM • Background Tasks • UserNotificationsÖzellikler
+SwiftUI • MapKit • async/await • MVVM • Background Tasks • UserNotifications
+
+# Özellikler
 
 Canlı veri akışı: AFAD /  Kandilli kaynaklı deprem listesi / USGS
 
