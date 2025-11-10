@@ -1,0 +1,2 @@
+# QuakeScope
+Live earthquake app
