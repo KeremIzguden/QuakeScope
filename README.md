@@ -1,4 +1,4 @@
-# QuakeScope
+# QuakeScope (DEPREM İZLEME IOS MOBİL UYGULAMASI)
 
 Türkiye ve yakın çevrede gerçekleşen depremleri anlık izleyen, harita üzerinde gösteren ve eşik değerlerine göre bildirim gönderebilen iOS uygulaması.
 
